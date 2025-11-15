@@ -56,6 +56,11 @@ python app.py
 http://127.0.0.1:5000
 ```
 
+## Screenshot :
+
+![Screenshot 2025-11-15 071559](https://github.com/user-attachments/assets/379c527c-8598-4dd3-8f84-e8f6217a2a5b)
+
+
 ## Future Improvements
 
 Add user authentication
