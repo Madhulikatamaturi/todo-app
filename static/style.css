@@ -1,0 +1,22 @@
+/* Priority dots */
+.priority-dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+/* Low priority (pastel green) */
+.dot-low {
+    background: #b8e1c9;
+}
+
+/* Medium priority (pastel yellow) */
+.dot-medium {
+    background: #ffe7a8;
+}
+
+/* High priority (pastel red) */
+.dot-high {
+    background: #f5b5b5;
+}
